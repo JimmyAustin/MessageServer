@@ -1,0 +1,9 @@
+Package: com.jamesaustin.messageserver
+Name: Message Server
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: James Austin
+Author: James Austin
+Section: Tweaks
