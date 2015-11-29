@@ -18,6 +18,8 @@ static const int httpLogLevel = HTTP_LOG_LEVEL_WARN; // | HTTP_LOG_FLAG_TRACE;
 	// 
 	// It also does cool things for us like support for converting "/" to "/index.html",
 	// and security restrictions (ensuring we don't serve documents outside configured document root folder).
+
+    //test change
 	
 	NSString *filePath = [self filePathForURI:path];
 
